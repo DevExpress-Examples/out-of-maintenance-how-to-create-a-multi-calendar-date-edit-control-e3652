@@ -1,3 +1,17 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainForm.cs](./CS/MainForm.cs) (VB: [MainForm.vb](./VB/MainForm.vb))
+* [MultiDateEdit.cs](./CS/MultiDateEdit.cs) (VB: [PopupMultiDateEditForm.vb](./VB/PopupMultiDateEditForm.vb))
+* [MultiDateEditCalendar.cs](./CS/MultiDateEditCalendar.cs) (VB: [VistaMultiDateEditCalendarPainter.vb](./VB/VistaMultiDateEditCalendarPainter.vb))
+* [MultiDateEditInfoArgs.cs](./CS/MultiDateEditInfoArgs.cs) (VB: [VistaMultiDateEditInfoArgs.vb](./VB/VistaMultiDateEditInfoArgs.vb))
+* [PopupMultiDateEditForm.cs](./CS/PopupMultiDateEditForm.cs) (VB: [PopupMultiDateEditForm.vb](./VB/PopupMultiDateEditForm.vb))
+* [RepositoryItemMultiDateEdit.cs](./CS/RepositoryItemMultiDateEdit.cs) (VB: [RepositoryItemMultiDateEdit.vb](./VB/RepositoryItemMultiDateEdit.vb))
+* [VistaMultiDateEditCalendar.cs](./CS/VistaMultiDateEditCalendar.cs) (VB: [VistaMultiDateEditCalendarPainter.vb](./VB/VistaMultiDateEditCalendarPainter.vb))
+* [VistaMultiDateEditCalendarPainter.cs](./CS/VistaMultiDateEditCalendarPainter.cs) (VB: [VistaMultiDateEditCalendarPainter.vb](./VB/VistaMultiDateEditCalendarPainter.vb))
+* [VistaMultiDateEditInfoArgs.cs](./CS/VistaMultiDateEditInfoArgs.cs) (VB: [VistaMultiDateEditInfoArgs.vb](./VB/VistaMultiDateEditInfoArgs.vb))
+* [VistaPopupMultiDateEditForm.cs](./CS/VistaPopupMultiDateEditForm.cs) (VB: [VistaPopupMultiDateEditForm.vb](./VB/VistaPopupMultiDateEditForm.vb))
+<!-- default file list end -->
 # How to create a multi calendar date edit control
 
 
